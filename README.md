@@ -20,8 +20,11 @@ Given a valid IPv4 address and then a port, this terminal script will respond if
 Usage: ./portchecker.py
 
 Ex:
+
 ./portchecker.py
+
 192.168.51.126
+
 21
 
 <Program responds with open or closed>
