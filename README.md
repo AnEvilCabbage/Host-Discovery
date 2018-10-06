@@ -9,7 +9,7 @@ Usage: ./pingscript.sh <IPv4 Network up to subnet>
 
 Ex: ./pingscript.sh 192.168.51
 
-<Program begins loop through IP addresses and prints valid pings>
+Program begins loop through IP addresses and prints valid pings
   
   
 
@@ -27,4 +27,4 @@ Ex:
 
 21
 
-<Program responds with open or closed>
+Program responds with open or closed
