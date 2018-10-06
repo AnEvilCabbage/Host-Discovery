@@ -9,6 +9,9 @@ Usage: ./pingscript.sh <IPv4 Network up to subnet>
 
 Ex: ./pingscript.sh 192.168.51
 
+<Program begins loop through IP addresses and prints valid pings>
+  
+  
 
 # portchecker.py
 
@@ -18,5 +21,7 @@ Usage: ./portchecker.py
 
 Ex:
 ./portchecker.py
->>>192.168.51.126
->21
+192.168.51.126
+21
+
+<Program responds with open or closed>
