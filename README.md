@@ -18,5 +18,5 @@ Usage: ./portchecker.py
 
 Ex:
 ./portchecker.py
->192.168.51.126
+>>>192.168.51.126
 >21
